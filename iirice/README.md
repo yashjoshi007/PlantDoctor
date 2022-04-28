@@ -1,4 +1,4 @@
-# iirice
+# PlantDoctor
 
 A new Flutter project.
 
