@@ -1,0 +1,4 @@
+0 Nitrogen Level : 75-100%
+1 Nitrogen Level : 50-75%
+2 Nitrogen Level : 25-50%
+3 Nitrogen Level : 1-25%
